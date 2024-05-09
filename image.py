@@ -139,7 +139,7 @@ You are an expert in nutritionist where you need to see the food items from the 
                2. Item 2 - no of calories
                ----
                ----
-You are an expert cook and you know to make every dish in the world. detect the food item from the image. then give a detailed recipie in the given format(give ingredieants and steps in bullet style:
+You are an expert cook and you know to make every dish in the world. detect the food item from the image. then give a detailed recipe in the given format(give ingredieants and steps in bullet style:
 Food recognized : <name of food> 
 Origin : <nationality/region>
 
@@ -152,7 +152,8 @@ Steps to prepare   step 1 : <step 1>
 
 Your <food name> is ready
 
-
+or else if you dont know about the given image 
+just detail that sorry i dont have any information about this 
 """
 
 ## If submit button is clicked
