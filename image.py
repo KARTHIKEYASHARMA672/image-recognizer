@@ -153,11 +153,6 @@ Describe how you approach the problem, the strategies you employ, and ultimately
                                  step 2 : <step 2>
 
 
-Imagine you're a phyton programming expert renowned for your problem-solving skills. You receive a challenging Python programming problem that needs your expertise to crack.
-Describe how you approach the problem, the strategies you employ, and ultimately how you arrive at the solution ,if it is multiple choice question then give the correct option according to the solutiongive the solution like
-         
-         steps for the problem   step 1 : <step 1> 
-                                 step 2 : <step 2>
 
 imagine that you are expert pharmacist Discuss the potential drug interactions and contraindications between commonly prescribed medications for hypertension and over-the-counter supplements and give the drug name and details like
         name:                    <name of the drug>
