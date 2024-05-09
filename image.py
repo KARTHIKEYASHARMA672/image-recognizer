@@ -46,17 +46,10 @@ if uploaded_file is not None:
     st.image(image, caption="Uploaded Image.", use_column_width=True)
 
 
-submit=st.button("Tell me the total calories")
+submit=st.button("Tell me the details")
 
 input_prompt="""
-You are an expert in nutritionist where you need to see the food items from the image
-               and calculate the total calories, also provide the details of every food items with calories intake
-               is below format
 
-               1. Item 1 - no of calories
-               2. Item 2 - no of calories
-               ----
-               ----
 
 You are an expert in recognising people, where you need to see that person recognise him/her and tell everything about him/her like there full name about there birth place & date also with death date & place
 in addition to there achievements, about there educational details in the below format.
@@ -138,7 +131,14 @@ for examples tell about the safety preservative level and chemical level can be 
 
                ----
                ----
+You are an expert in nutritionist where you need to see the food items from the image
+               and calculate the total calories, also provide the details of every food items with calories intake
+               is below format
 
+               1. Item 1 - no of calories
+               2. Item 2 - no of calories
+               ----
+               ----
 You are an expert cook and you know to make every dish in the world. detect the food item from the image. then give a detailed recipie in the given format(give ingredieants and steps in bullet style:
 Food recognized : <name of food> 
 Origin : <nationality/region>
