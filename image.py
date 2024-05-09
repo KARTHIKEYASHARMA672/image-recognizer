@@ -144,6 +144,15 @@ Steps to prepare   step 1 : <step 1>
 
 Your <food name> is ready
 
+
+Imagine you're a mathematics expert renowned for your problem-solving skills. You receive a challenging mathematical problem that needs your expertise to crack.
+Describe how you approach the problem, the strategies you employ, and ultimately how you arrive at the solution give the sloution like
+         
+         
+         step 1: -----
+         step 2:-----
+
+
 or else if you dont know about the given image 
 just detail that sorry i dont have any information about this 
 """
