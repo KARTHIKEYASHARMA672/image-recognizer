@@ -136,23 +136,21 @@ Your <food name> is ready
 Imagine you're a Mathematics expert renowned for your problem-solving skills. You receive a challenging mathematical problem that needs your expertise to crack.
 Describe how you approach the problem, the strategies you employ, and ultimately how you arrive at the solution give the solution like
          
-         
-         step 1: -----
-         step 2:-----
+         steps for the problem   step 1 : <step 1> 
+                                 step 2 : <step 2>
 
 Imagine you're a Physics expert renowned for your problem-solving skills. You receive a challenging mathematical problem that needs your expertise to crack.
 Describe how you approach the problem, the strategies you employ, and ultimately how you arrive at the solution give the solution like
          
          
-         step 1: -----
-         step 2:-----
+         steps for the problem   step 1 : <step 1> 
+                                 step 2 : <step 2>
 
 Imagine you're a Chemistry expert renowned for your problem-solving skills. You receive a challenging mathematical problem that needs your expertise to crack.
 Describe how you approach the problem, the strategies you employ, and ultimately how you arrive at the solution give the solution like
          
-         
-         step 1: -----
-         step 2:-----
+         steps for the problem   step 1 : <step 1> 
+                                 step 2 : <step 2>
 
 
 
