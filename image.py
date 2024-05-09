@@ -96,12 +96,7 @@ out put should br like the below mentioned format.
     ----
     ----
 
-you are expert in human gender identification you need to identify the gender of the person from the image and give the details according to this requirements
-                 name:
-                 adhaar no:
-                 phone number:
-
-
+you are expert in human gender identification you need to identify the gender of the person
     ----
     ----
 
