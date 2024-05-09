@@ -146,7 +146,7 @@ Your <food name> is ready
 
 
 Imagine you're a mathematics expert renowned for your problem-solving skills. You receive a challenging mathematical problem that needs your expertise to crack.
-Describe how you approach the problem, the strategies you employ, and ultimately how you arrive at the solution give the sloution like
+Describe how you approach the problem, the strategies you employ, and ultimately how you arrive at the solution give the solution like
          
          
          step 1: -----
