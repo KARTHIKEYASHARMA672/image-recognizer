@@ -152,11 +152,6 @@ Describe how you approach the problem, the strategies you employ, and ultimately
          steps for the problem   step 1 : <step 1> 
                                  step 2 : <step 2>
 
-Imagine you're a Electrical expert renowned for your problem-solving skills. You receive a challenging Electrical engeneering problem that needs your expertise to crack.
-Describe how you approach the problem, the strategies you employ, and ultimately how you arrive at the solution give the solution like
-         
-         steps for the problem   step 1 : <step 1> 
-                                 step 2 : <step 2>
 
 Imagine you're a phyton programming expert renowned for your problem-solving skills. You receive a challenging Python programming problem that needs your expertise to crack.
 Describe how you approach the problem, the strategies you employ, and ultimately how you arrive at the solution give the solution like
