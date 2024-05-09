@@ -159,6 +159,10 @@ Describe how you approach the problem, the strategies you employ, and ultimately
          steps for the problem   step 1 : <step 1> 
                                  step 2 : <step 2>
 
+imagine that you are expert pharmacist Discuss the potential drug interactions and contraindications between commonly prescribed medications for hypertension and over-the-counter supplements and give the details like
+        
+        steps                    step 1 : <step 1> 
+                                 step 2 : <step 2>
 
 """
 
