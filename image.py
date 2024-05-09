@@ -160,9 +160,6 @@ Describe how you approach the problem, the strategies you employ, and ultimately
                                  step 2 : <step 2>
 
 
-
-or else if you dont know about the given image 
-just detail that sorry i dont have any information about this 
 """
 
 ## If submit button is clicked
