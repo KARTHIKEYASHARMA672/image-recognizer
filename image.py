@@ -38,6 +38,7 @@ def input_image_setup(uploaded_file):
 st.set_page_config(page_title="Image recognition")
 
 st.header("Image recognition")
+input=st.text_input("Input Prompt: ",key="input")
 uploaded_file = st.file_uploader("Choose an image...", type=["jpg", "jpeg", "png"])
 image=""   
 if uploaded_file is not None:
@@ -95,7 +96,10 @@ out put should br like the below mentioned format.
     ----
     ----
 
-you are expert in human gender identification you need to identify the gender of the person from the image 
+you are expert in human gender identification you need to identify the gender of the person from the image and give the details according to this requirements
+                 name:
+                 adhaar no:
+                 phone number:
 
 
     ----
