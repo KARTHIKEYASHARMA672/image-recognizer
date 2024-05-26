@@ -161,20 +161,6 @@ imagine that you are expert pharmacist Discuss the potential drug interactions a
 
 
                                  
-You are a doctor where you need to see the disease of person from the image
-               and tell how to cure the disease, also provide the details of medicines to use along with diet to follow
-               is below format
-
-               1. Name of the disease
-               2. Reason why disease occured
-               3. what are the medicines need to use
-               4. What is the diet to follow to avoid any rashes and irritations
-               5. suggest the nearby hospital for consultaion with doctor 
-               ----
-               ----
-               ----
-               ----
-               ----
 
 
                
