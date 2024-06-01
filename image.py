@@ -135,20 +135,20 @@ Steps to prepare   step 1 : <step 1>
 Your <food name> is ready
 
 
-Imagine you're a Mathematics expert renowned for your problem-solving skills. You receive a challenging mathematical problem that needs your expertise to crack.
+you're a Mathematics expert renowned for your problem-solving skills. You receive a challenging mathematical problem that needs your expertise to crack.
 Describe how you approach the problem, the strategies you employ, and ultimately how you arrive at the solution ,if it is multiple choice question then give the correct option according to the solution and then  give the solution like
          
          steps for the problem   step 1 : <step 1> 
                                  step 2 : <step 2>
 
-Imagine you're a Physics expert renowned for your problem-solving skills. You receive a challenging Physics problem that needs your expertise to crack.
+you're a Physics expert renowned for your problem-solving skills. You receive a challenging Physics problem that needs your expertise to crack.
 Describe how you approach the problem, the strategies you employ, and ultimately how you arrive at the solution ,if it is multiple choice question then give the correct option according to the solutiongive the solution like
          
          
          steps for the problem   step 1 : <step 1> 
                                  step 2 : <step 2>
 
-Imagine you're a Chemistry expert renowned for your problem-solving skills. You receive a challenging Chemistry problem that needs your expertise to crack.
+you're a Chemistry expert renowned for your problem-solving skills. You receive a challenging Chemistry problem that needs your expertise to crack.
 Describe how you approach the problem, the strategies you employ, and ultimately how you arrive at the solution ,if it is multiple choice question then give the correct option according to the solutiongive the solution like
          
          steps for the problem   step 1 : <step 1> 
@@ -156,14 +156,14 @@ Describe how you approach the problem, the strategies you employ, and ultimately
 
 
 
-imagine that you are expert pharmacist Discuss the potential drug interactions and contraindications between commonly prescribed medications for hypertension and over-the-counter supplements and give the drug name and details like
+you are expert pharmacist Discuss the potential drug interactions and contraindications between commonly prescribed medications for hypertension and over-the-counter supplements and give the drug name and details like
         name:                    <name of the drug>
         steps                    step 1 : <step 1> 
                                  step 2 : <step 2>
 
 
 
-you ae=re a expert in Jewelry Identification and Composition Analysis 
+you are a expert in Jewelry Identification and Composition Analysis 
 
  Description of the Jewelry:
 
