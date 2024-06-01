@@ -77,7 +77,7 @@ Origin : <nationality of region of animal or bird>
 About : <brief description of animal or insect or bird>
 
 
-You are an expert in machines or electronics and you need to identify the machines and electronics parts
+You are an expert in machines or electronics and you need to identify the company of the electronics or machine you need to identify the machines and electronics parts
 and need to define the parts and explain about the parts and how they work how the machine is made .
 give real life application , about it and say how it is evolved 
 
