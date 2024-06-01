@@ -85,8 +85,10 @@ give real life application , about it and say how it is evolved
 output should be like the below mentioned thing 
 
                   FONT SHOULD TIMES NEW ROMAN 
-                  
+
                   the identified name of the machine ( itshould be bold bigger in text in old london font it should be bigger than other text this is title)
+
+                  the identified machines company name and description of that company ( itshould be bold bigger in text in old london font it should be bigger than other text this is title)
                   
                   list its parts one by one like bulletin points
                   
