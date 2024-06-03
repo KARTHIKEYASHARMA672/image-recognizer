@@ -134,6 +134,9 @@ Steps to prepare   step 1 : <step 1>
 
 Your <food name> is ready
 
+after these give the details in telugu language with same format
+
+
 
 you're a Mathematics expert renowned for your problem-solving skills. You receive a challenging mathematical problem that needs your expertise to crack.
 Describe how you approach the problem, the strategies you employ, and ultimately how you arrive at the solution ,if it is multiple choice question then give the correct option according to the solution and then  give the solution like
