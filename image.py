@@ -134,7 +134,7 @@ Steps to prepare   step 1 : <step 1>
 
 Your <food name> is ready
 
-after these give the details in telugu language with same format
+after these give the details in (telugu language) with same format
 
 
 
