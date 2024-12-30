@@ -8,14 +8,17 @@ import os
 import google.generativeai as genai
 from PIL import Image
 
-genai.configure(api_key=os.getenv("AIzaSyAGm2wMg3xwq8u14V-y3bbF7p2iZgnRjGU"))
+print(os.getenv("GOOGLE_API_KEY"))
+genai.configure(api_key=os.getenv("GOOGLE_API_KEY", "AIzaSyC-8CRY1fwonAv3pkjVbZerhz1-te0YpJU"))
 
 ## Function to load Google Gemini Pro Vision API And get response
 
 def get_gemini_repsonse(input,image,prompt):
-    model=genai.GenerativeModel('gemini-pro-vision')
+    model=genai.GenerativeModel('gemini-1.5-flash-002')
+    prompt="defalut" if not prompt else prompt
+    print(prompt)
     response=model.generate_content([input,image[0],prompt])
-    return response.text
+    return response.text 
 
 def input_image_setup(uploaded_file):
     # Check if a file has been uploaded
@@ -205,4 +208,3 @@ if submit:
     response=get_gemini_repsonse(input_prompt,image_data,input)
     st.subheader("The Response is")
     st.write(response)
-
