@@ -76,7 +76,7 @@ Species : <scientific name>
 Habitat: <habitat of animal or insect or bird>
 Type: <wether animal is carnivorous, omnivorous, or herbivore>
 Status : <if animal is exint or not>
-Origin : <nationality of region of animal or bird>
+Origin : <nationality of region of animal or bird> 
 About : <brief description of animal or insect or bird>
 
 
