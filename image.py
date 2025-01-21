@@ -41,7 +41,7 @@ def input_image_setup(uploaded_file):
 
 st.set_page_config(page_title="Image Recognizer")
 
-st.header("Image Recognizer")
+st.header(" LIKKI'S Image Recognizer")
 input=st.text_input("Input Prompt: ",key="input")
 uploaded_file = st.file_uploader("Choose an image...", type=["jpg", "jpeg", "png"])
 image=""   
