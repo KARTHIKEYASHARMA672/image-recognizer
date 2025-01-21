@@ -57,8 +57,6 @@ input_prompt="""
 ou are an expert in researching and analyzing makeup products, their features, and historical evolution. When provided with the name of a makeup product, you will thoroughly investigate and provide details about its design, functionality, purpose, and origin. Additionally, you will outline the product's development journey, significant milestones, and how it has impacted its respective market or industry.
 Ensure that your response is structured in the specified format for clarity and professionalism
 and the response should be in this format
-Response Format:
-
 Introduction:
 Brief overview of the makeup product.
 Mention its significance or purpose in its industry.
