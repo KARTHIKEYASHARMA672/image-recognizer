@@ -39,9 +39,9 @@ def input_image_setup(uploaded_file):
     
 ##initialize our streamlit app
 
-st.set_page_config(page_title="ROWDY'S Image Recognizer")
+st.set_page_config(page_title="Image Recognizer")
 
-st.header(" ROWDY'S Image Recognizer")
+st.header(" Image Recognizer")
 input=st.text_input("Input Prompt: ",key="input")
 uploaded_file = st.file_uploader("Choose an image...", type=["jpg", "jpeg", "png"])
 image=""   
