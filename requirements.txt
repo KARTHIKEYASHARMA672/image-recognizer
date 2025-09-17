@@ -6,4 +6,5 @@ PyPDF2
 chromadb
 pdf2image
 faiss-cpu
+Pillow
 langchain_google_genai
