@@ -73,7 +73,7 @@ def get_gemini_response(prompt_text, image, user_question):
 
     final_prompt = f"{prompt_text}\n\nUser Question: {user_question}"
 
-    model = genai.GenerativeModel("gemini-2.5-flash")
+    model = genai.GenerativeModel("gemini-2.0-flash")
 
     # Retry system (3 attempts)
     for attempt in range(3):
