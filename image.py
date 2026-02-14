@@ -69,7 +69,7 @@ def get_gemini_response(prompt_text, pil_img, user_input_text):
     # Build the final text prompt (you may merge user_input_text & prompt_text)
     final_prompt = (prompt_text + "\n\nUser question: " + user_input_text).strip()
     try:
-        model = genai.GenerativeModel('gemini-1.5-flash-002')  # same style used in docs/examples
+        model = genai.GenerativeModel('gemini-2.5-flash')  # same style used in docs/examples
         # Pass a list where strings and PIL.Image objects are accepted
         # Order: text prompt first, then the image (matches examples)
         response = model.generate_content([final_prompt, pil_img])
